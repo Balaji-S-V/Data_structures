@@ -23,4 +23,5 @@ public class LinkedList
 
         LinkedList list = new LinkedList(4);
         LinkedList list;
+         a f
     }
